@@ -37,5 +37,4 @@ then simply add them to this comma separated list. The second is for terms. Whil
 there are some cases in which you want to filter from every search. These can be added here and it will apply to all searches.
 This list is useful for terms such as 'womens' if you're male, or 'well worn' if you prefer your clothes a bit fresher.
 
-Once you've set up the configuration file then it should be as easy as running the main script (Or the batch script, which
-I've included for my own convenience).
+Once you've set up the configuration file then it should be as easy as running the main script.
