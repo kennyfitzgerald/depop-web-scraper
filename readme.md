@@ -1,10 +1,8 @@
 # Depop web scraping tool
 
-Are you a keen bargain hunter? Do you frequently use the mobile app Depop to buy clothing? 
-Well this app could be for you. The user specifies at least one search criteria 
-in the configuration file and then running the program uses  web scraping package BeautifulSoup to
-pull data from the Depop website. When an item is found that matches any of the specified criteria, 
-the user receives a notification. 
+This program uses web scraping package BeautifulSoup to
+pull data from the Depop website. When an item is found that matches any of the user specified criteria, 
+the a notification sound is played and the item url is opened in the browser. 
 
 The inspiration came from my own experiences with the app. If there was a specific item I wanted then 
 I would constantly find myself searching the same things each time in hope that one with a suitable price
