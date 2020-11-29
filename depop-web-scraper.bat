@@ -1,0 +1,1 @@
+"c:\ProgramData\Anaconda3\python.exe" "c:\users\kfitz\documents\PYTHON PROJECTS\depop-web-scraper\main.py" %*
